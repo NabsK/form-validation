@@ -1,0 +1,13 @@
+h1 {
+  margin-left: 40px;
+}
+
+label {
+  display: inline-block;
+  width: 100px;
+  text-align: right;
+}
+
+#submitButton {
+  margin-left: 200px;
+}
